@@ -1,10 +1,13 @@
-PROJ_NAME = Blinky
+PROJ_NAME = Activity
 
 BUILD_DIR = Build
 
 # All Source code files
-SRC = project_main.c\
-src/user_utils.c
+SRC = main.c\
+src/Act1.c
+src/Act2.c
+src/Act3.c
+src/Act4.c
 
 # All header file paths
 INC = -I inc
