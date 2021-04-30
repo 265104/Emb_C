@@ -3,7 +3,7 @@ PROJ_NAME = Activity
 BUILD_DIR = Build
 
 # All Source code files
-SRC = src/main.c\
+SRC = main.c\
 src/Act1.c\
 src/Act2.c\
 src/Act3.c\
