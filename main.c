@@ -33,7 +33,7 @@ int main(void)
         _delay_ms(200);
 
         temp_ch=OutPWM(temp);
-         USARTwrite('A');
+         USARTwrite(temp_ch);
     }
 
     return 0;
